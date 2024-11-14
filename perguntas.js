@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Anatomia',
+    'Quantos litros de sangue uma pessoa tem em média?',
+    'Entre 4 e 6 litros'
 )
 
 criaCartao(
