@@ -5,14 +5,14 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Física',
+    'Qual a velocidade da luz?',
+    '299 792 458 metros por segundo (m/s)'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
+    'Geografia',
+    'Qual a maior floresta tropical do mundo?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
