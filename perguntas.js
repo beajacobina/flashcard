@@ -13,11 +13,11 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual a maior floresta tropical do mundo?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Floresta amazônica'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Matematica',
+    'Qual é a formula de bhaskara?',
+    '(-b±√(b²-4ac))/(2a) '
 )
